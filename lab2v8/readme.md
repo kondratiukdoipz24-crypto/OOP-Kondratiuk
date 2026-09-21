@@ -17,3 +17,4 @@
 Створено консольний проєкт за допомогою .NET CLI:
 ```bash
 dotnet new console -o OOP-Kondratiuk/lab2v8
+![alt text](image.png)
