@@ -2,4 +2,5 @@
   <Project Path="IndependentWork5.Tests/IndependentWork5.Tests.csproj" />
   <Project Path="IndependentWork5/IndependentWork5.csproj" />
   <Project Path="IndependentWork6/IndependentWork6.csproj" />
+  <Project Path="IndependentWork7/IndependentWork7.csproj" />
 </Solution>
