@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="IndependentWork10/IndependentWork10.csproj" />
   <Project Path="IndependentWork11/IndependentWork11.csproj" />
+  <Project Path="IndependentWork12/IndependentWork12.csproj" />
   <Project Path="IndependentWork5.Tests/IndependentWork5.Tests.csproj" />
   <Project Path="IndependentWork5/IndependentWork5.csproj" />
   <Project Path="IndependentWork6/IndependentWork6.csproj" />
